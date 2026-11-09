@@ -59,7 +59,7 @@ My first practical experience in web development, where I had the opportunity to
 - Explored backend development using PHP and Laravel.
 - Worked with Laravel Blade, HTML, CSS, and JavaScript.
 - Used MySQL for database management.
-- Contributed to an inventory and account management system for Orni Dye Chem.
+- Contributed to an inventory and account management system.
 - Gained practical experience with development workflows and application logic.
 
 ## Technologies & Tools
@@ -141,16 +141,6 @@ I'm curious about a wide range of topics and always looking for opportunities to
 - Open Source Software
 - Secure Software Engineering
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TanvirOyon&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirOyon&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TanvirOyon&theme=transparent&hide_border=true" alt="GitHub Streak">
-</p>
 
 ## Let's Connect
 
